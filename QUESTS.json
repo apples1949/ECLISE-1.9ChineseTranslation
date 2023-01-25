@@ -930,7 +930,7 @@
 							"UniqueID": "UNLOCK_TRAINING_ZONE",
 							"QuestName": "[QUESTS_MAINLINE_UNLOCK_TRAINING_ZONE]",
 							"Description": "[QUESTS_DESCRIPTION_MAINLINE_UNLOCK_TRAINING_ZONE]",
-							"LevelName": "training\/reset_training",
+							"LevelName": "training/reset_training",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_MODERN",
 							"Prerequisites": {
 								"QuestUniqueIDs": [
@@ -947,7 +947,7 @@
 							"UniqueID": "UNLOCK_COMMUNITY_LEVELS",
 							"QuestName": "[QUESTS_MAINLINE_UNLOCK_COMMUNITY_LEVELS]",
 							"Description": "[QUESTS_DESCRIPTION_MAINLINE_UNLOCK_COMMUNITY_LEVELS]",
-							"LevelName": "community\/community_gate",
+							"LevelName": "community/community_gate",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_MODERN",
 							"Prerequisites": {
 								"QuestUniqueIDs": [
@@ -979,7 +979,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_0",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-0!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S0]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret0",
 							"CompletionAwards": {
@@ -1005,7 +1005,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_1",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-1!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S1]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret1",
 							"CompletionAwards": {
@@ -1031,7 +1031,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_2",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-2!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S2]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret2",
 							"CompletionAwards": {
@@ -1057,7 +1057,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_3",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-3!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S3]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret3",
 							"CompletionAwards": {
@@ -1083,7 +1083,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_4",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-4!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S4]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret4",
 							"CompletionAwards": {
@@ -1109,7 +1109,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_5",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-5!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S5]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret5",
 							"CompletionAwards": {
@@ -1135,7 +1135,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_6",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-6!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S6]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret6",
 							"CompletionAwards": {
@@ -1161,7 +1161,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_7",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-7!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S7]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret7",
 							"CompletionAwards": {
@@ -1187,7 +1187,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_8",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-8!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S8]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret8",
 							"CompletionAwards": {
@@ -1213,7 +1213,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_9",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-9!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S9]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret9",
 							"CompletionAwards": {
@@ -1239,7 +1239,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_10",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-10!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S10]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret10",
 							"CompletionAwards": {
@@ -1265,7 +1265,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_11",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-11!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S11]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret11",
 							"CompletionAwards": {
@@ -1291,7 +1291,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_12",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-12!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S12]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret12",
 							"CompletionAwards": {
@@ -1317,7 +1317,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_13",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-13!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S13]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret13",
 							"CompletionAwards": {
@@ -1343,7 +1343,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_14",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-14!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S14]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret14",
 							"CompletionAwards": {
@@ -1369,7 +1369,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_15",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-15!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S15]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret15",
 							"CompletionAwards": {
@@ -1395,7 +1395,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_16",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-16!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S16]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret16",
 							"CompletionAwards": {
@@ -1421,7 +1421,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_17",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-17!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S17]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret17",
 							"CompletionAwards": {
@@ -1447,7 +1447,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_18",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-18!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S18]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret18",
 							"CompletionAwards": {
@@ -1473,7 +1473,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_19",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-19!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S19]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret19",
 							"CompletionAwards": {
@@ -1499,7 +1499,7 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "SECRET_LEVEL_20",
-							"QuestName": "[QUESTS_SECRET_LEVEL]S-20!",
+							"QuestName": "[QUESTS_SECRET_LEVEL_S20]",
 							"Description": "[QUESTS_DESCRIPTION_SECRET_LEVEL]",
 							"LevelName": "secret20",
 							"CompletionAwards": {
@@ -1525,9 +1525,9 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "EPIC_QUEST_ICEAGE10_VET",
-							"QuestName": "Challenge Level: Shuffling Revenge!",
+							"QuestName": "[QUESTS_EPIC_5_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_5_10]",
-							"LevelName": "challenges\/epic_iceage10",
+							"LevelName": "challenges/epic_iceage10",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1551,9 +1551,9 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "DailyActivities",
 							"UniqueID": "EPIC_QUEST_COWBOY9_VET",
-							"QuestName": "Challenge Level: The Old Queens!",
+							"QuestName": "[QUESTS_EPIC_6_9]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_6_9]",
-							"LevelName": "challenges\/epic_cowboy9",
+							"LevelName": "challenges/epic_cowboy9",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1579,7 +1579,7 @@
 							"UniqueID": "EPIC_QUEST_LOSTCITY19_VET",
 							"QuestName": "[QUESTS_EPIC_12_9]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_12_9]",
-							"LevelName": "challenges\/epic_lostcity19",
+							"LevelName": "challenges/epic_lostcity19",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1605,7 +1605,7 @@
 							"UniqueID": "EPIC_QUEST_DARK16_VET",
 							"QuestName": "[QUESTS_EPIC_13_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_13_6]",
-							"LevelName": "challenges\/epic_dark16",
+							"LevelName": "challenges/epic_dark16",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1631,7 +1631,7 @@
 							"UniqueID": "EPIC_QUEST_BEACH15_VET",
 							"QuestName": "[QUESTS_EPIC_17_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_17_5]",
-							"LevelName": "challenges\/epic_beach15",
+							"LevelName": "challenges/epic_beach15",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1657,7 +1657,7 @@
 							"UniqueID": "EPIC_QUEST_DINO20_VET",
 							"QuestName": "[QUESTS_EPIC_18_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_18_10]",
-							"LevelName": "challenges\/epic_dino20",
+							"LevelName": "challenges/epic_dino20",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -1683,7 +1683,7 @@
 							"UniqueID": "EPIC_QUEST_FUTURE20_VET",
 							"QuestName": "[QUESTS_EPIC_19_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_19_10]",
-							"LevelName": "challenges\/epic_future20",
+							"LevelName": "challenges/epic_future20",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -2773,7 +2773,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_1]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry1",
+							"LevelName": "challenges/epic_electricblueberry1",
 							"Priority": "Primary"
 						}
 					},
@@ -2784,7 +2784,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_2]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry2",
+							"LevelName": "challenges/epic_electricblueberry2",
 							"Priority": "Primary"
 						}
 					},
@@ -2795,7 +2795,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_3]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry3",
+							"LevelName": "challenges/epic_electricblueberry3",
 							"Priority": "Primary"
 						}
 					},
@@ -2806,7 +2806,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_4]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry4",
+							"LevelName": "challenges/epic_electricblueberry4",
 							"Priority": "Primary"
 						}
 					},
@@ -2817,7 +2817,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_5]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry5",
+							"LevelName": "challenges/epic_electricblueberry5",
 							"Priority": "Primary"
 						}
 					},
@@ -2828,7 +2828,7 @@
 							"UniqueID": "EPIC_QUEST_ELECTRICBLUEBERRY_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_EBL_6]",
 							"Description": "",
-							"LevelName": "challenges\/epic_electricblueberry6",
+							"LevelName": "challenges/epic_electricblueberry6",
 							"Priority": "Primary"
 						}
 					},
@@ -2876,7 +2876,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_1]",
-							"LevelName": "challenges\/epic_iceshroom1",
+							"LevelName": "challenges/epic_iceshroom1",
 							"Priority": "Primary"
 						}
 					},
@@ -2887,7 +2887,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_2]",
-							"LevelName": "challenges\/epic_iceshroom2",
+							"LevelName": "challenges/epic_iceshroom2",
 							"Priority": "Primary"
 						}
 					},
@@ -2898,7 +2898,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_3]",
-							"LevelName": "challenges\/epic_iceshroom3",
+							"LevelName": "challenges/epic_iceshroom3",
 							"Priority": "Primary"
 						}
 					},
@@ -2909,7 +2909,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_4]",
-							"LevelName": "challenges\/epic_iceshroom4",
+							"LevelName": "challenges/epic_iceshroom4",
 							"Priority": "Primary"
 						}
 					},
@@ -2920,7 +2920,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_5]",
-							"LevelName": "challenges\/epic_iceshroom5",
+							"LevelName": "challenges/epic_iceshroom5",
 							"Priority": "Primary"
 						}
 					},
@@ -2931,7 +2931,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_6]",
-							"LevelName": "challenges\/epic_iceshroom6",
+							"LevelName": "challenges/epic_iceshroom6",
 							"Priority": "Primary"
 						}
 					},
@@ -2942,7 +2942,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_7]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_7]",
-							"LevelName": "challenges\/epic_iceshroom7",
+							"LevelName": "challenges/epic_iceshroom7",
 							"Priority": "Primary"
 						}
 					},
@@ -2953,7 +2953,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_8]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_8]",
-							"LevelName": "challenges\/epic_iceshroom8",
+							"LevelName": "challenges/epic_iceshroom8",
 							"Priority": "Primary"
 						}
 					},
@@ -2964,7 +2964,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_9",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_9]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_9]",
-							"LevelName": "challenges\/epic_iceshroom9",
+							"LevelName": "challenges/epic_iceshroom9",
 							"Priority": "Primary"
 						}
 					},
@@ -2975,7 +2975,7 @@
 							"UniqueID": "EPIC_QUEST_ICESHROOM_STEP_10",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_ICS_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_ICS_10]",
-							"LevelName": "challenges\/epic_iceshroom10",
+							"LevelName": "challenges/epic_iceshroom10",
 							"Priority": "Primary"
 						}
 					},
@@ -3019,7 +3019,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_1]",
-							"LevelName": "challenges\/epic_citron1",
+							"LevelName": "challenges/epic_citron1",
 							"Priority": "Primary"
 						}
 					},
@@ -3030,7 +3030,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_2]",
-							"LevelName": "challenges\/epic_citron2",
+							"LevelName": "challenges/epic_citron2",
 							"Priority": "Primary"
 						}
 					},
@@ -3041,7 +3041,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_3]",
-							"LevelName": "challenges\/epic_citron3",
+							"LevelName": "challenges/epic_citron3",
 							"Priority": "Primary"
 						}
 					},
@@ -3052,7 +3052,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_4]",
-							"LevelName": "challenges\/epic_citron4",
+							"LevelName": "challenges/epic_citron4",
 							"Priority": "Primary"
 						}
 					},
@@ -3063,7 +3063,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_5]",
-							"LevelName": "challenges\/epic_citron5",
+							"LevelName": "challenges/epic_citron5",
 							"Priority": "Primary"
 						}
 					},
@@ -3074,7 +3074,7 @@
 							"UniqueID": "EPIC_QUEST_CITRON_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CTR_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_CTR_6]",
-							"LevelName": "challenges\/epic_citron6",
+							"LevelName": "challenges/epic_citron6",
 							"Priority": "Primary"
 						}
 					},
@@ -3123,7 +3123,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_1]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern1",
+							"LevelName": "challenges/epic_modern1",
 							"Priority": "Primary"
 						}
 					},
@@ -3134,7 +3134,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_2]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern2",
+							"LevelName": "challenges/epic_modern2",
 							"Priority": "Primary"
 						}
 					},
@@ -3145,7 +3145,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_3]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern3",
+							"LevelName": "challenges/epic_modern3",
 							"Priority": "Primary"
 						}
 					},
@@ -3156,7 +3156,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_4]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern4",
+							"LevelName": "challenges/epic_modern4",
 							"Priority": "Primary"
 						}
 					},
@@ -3167,7 +3167,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_5]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern5",
+							"LevelName": "challenges/epic_modern5",
 							"Priority": "Primary"
 						}
 					},
@@ -3178,7 +3178,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_6]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern6",
+							"LevelName": "challenges/epic_modern6",
 							"Priority": "Primary"
 						}
 					},
@@ -3189,7 +3189,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_7]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern7",
+							"LevelName": "challenges/epic_modern7",
 							"Priority": "Primary"
 						}
 					},
@@ -3200,7 +3200,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_8]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern8",
+							"LevelName": "challenges/epic_modern8",
 							"Priority": "Primary"
 						}
 					},
@@ -3211,7 +3211,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_9",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_9]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern9",
+							"LevelName": "challenges/epic_modern9",
 							"Priority": "Primary"
 						}
 					},
@@ -3222,7 +3222,7 @@
 							"UniqueID": "EPIC_QUEST_MODERN_STEP_10",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_MODERN_10]",
 							"Description": "",
-							"LevelName": "challenges\/epic_modern10",
+							"LevelName": "challenges/epic_modern10",
 							"Priority": "Primary"
 						}
 					},
@@ -3233,7 +3233,7 @@
 							"UniqueID": "EPIC_QUEST_MINESET",
 							"QuestName": "[QUESTS_EPIC_MINESETTER]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_MINESETTER]",
-							"LevelName": "minigames\/mineset1",
+							"LevelName": "minigames/mineset1",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -3293,7 +3293,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_1]",
-							"LevelName": "challenges\/epic_sunbean1",
+							"LevelName": "challenges/epic_sunbean1",
 							"Priority": "Primary"
 						}
 					},
@@ -3304,7 +3304,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_2]",
-							"LevelName": "challenges\/epic_sunbean2",
+							"LevelName": "challenges/epic_sunbean2",
 							"Priority": "Primary"
 						}
 					},
@@ -3315,7 +3315,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_3]",
-							"LevelName": "challenges\/epic_sunbean3",
+							"LevelName": "challenges/epic_sunbean3",
 							"Priority": "Primary"
 						}
 					},
@@ -3326,7 +3326,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_4]",
-							"LevelName": "challenges\/epic_sunbean4",
+							"LevelName": "challenges/epic_sunbean4",
 							"Priority": "Primary"
 						}
 					},
@@ -3337,7 +3337,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_5]",
-							"LevelName": "challenges\/epic_sunbean5",
+							"LevelName": "challenges/epic_sunbean5",
 							"Priority": "Primary"
 						}
 					},
@@ -3348,7 +3348,7 @@
 							"UniqueID": "EPIC_QUEST_SUNBEAN_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SNB_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SNB_6]",
-							"LevelName": "challenges\/epic_sunbean6",
+							"LevelName": "challenges/epic_sunbean6",
 							"Priority": "Primary"
 						}
 					},
@@ -3394,7 +3394,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_1]",
-							"LevelName": "challenges\/epic_springbean1",
+							"LevelName": "challenges/epic_springbean1",
 							"Priority": "Primary"
 						}
 					},
@@ -3405,7 +3405,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_2]",
-							"LevelName": "challenges\/epic_springbean2",
+							"LevelName": "challenges/epic_springbean2",
 							"Priority": "Primary"
 						}
 					},
@@ -3416,7 +3416,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_3]",
-							"LevelName": "challenges\/epic_springbean3",
+							"LevelName": "challenges/epic_springbean3",
 							"Priority": "Primary"
 						}
 					},
@@ -3427,7 +3427,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_4]",
-							"LevelName": "challenges\/epic_springbean4",
+							"LevelName": "challenges/epic_springbean4",
 							"Priority": "Primary"
 						}
 					},
@@ -3438,7 +3438,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_5]",
-							"LevelName": "challenges\/epic_springbean5",
+							"LevelName": "challenges/epic_springbean5",
 							"Priority": "Primary"
 						}
 					},
@@ -3449,7 +3449,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_6]",
-							"LevelName": "challenges\/epic_springbean6",
+							"LevelName": "challenges/epic_springbean6",
 							"Priority": "Primary"
 						}
 					},
@@ -3460,7 +3460,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_7]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_7]",
-							"LevelName": "challenges\/epic_springbean7",
+							"LevelName": "challenges/epic_springbean7",
 							"Priority": "Primary"
 						}
 					},
@@ -3471,7 +3471,7 @@
 							"UniqueID": "EPIC_QUEST_SPRINGBEAN_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SPB_8]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SPB_8]",
-							"LevelName": "challenges\/epic_springbean8",
+							"LevelName": "challenges/epic_springbean8",
 							"Priority": "Primary"
 						}
 					},
@@ -3519,7 +3519,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_1]",
-							"LevelName": "challenges\/epic_shadowleaf1",
+							"LevelName": "challenges/epic_shadowleaf1",
 							"Priority": "Primary"
 						}
 					},
@@ -3530,7 +3530,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_2]",
-							"LevelName": "challenges\/epic_shadowleaf2",
+							"LevelName": "challenges/epic_shadowleaf2",
 							"Priority": "Primary"
 						}
 					},
@@ -3541,7 +3541,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_3]",
-							"LevelName": "challenges\/epic_shadowleaf3",
+							"LevelName": "challenges/epic_shadowleaf3",
 							"Priority": "Primary"
 						}
 					},
@@ -3552,7 +3552,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_4]",
-							"LevelName": "challenges\/epic_shadowleaf4",
+							"LevelName": "challenges/epic_shadowleaf4",
 							"Priority": "Primary"
 						}
 					},
@@ -3563,7 +3563,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_5]",
-							"LevelName": "challenges\/epic_shadowleaf5",
+							"LevelName": "challenges/epic_shadowleaf5",
 							"Priority": "Primary"
 						}
 					},
@@ -3574,7 +3574,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_6]",
-							"LevelName": "challenges\/epic_shadowleaf6",
+							"LevelName": "challenges/epic_shadowleaf6",
 							"Priority": "Primary"
 						}
 					},
@@ -3585,7 +3585,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_7]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_7]",
-							"LevelName": "challenges\/epic_shadowleaf7",
+							"LevelName": "challenges/epic_shadowleaf7",
 							"Priority": "Primary"
 						}
 					},
@@ -3596,7 +3596,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_8]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_8]",
-							"LevelName": "challenges\/epic_shadowleaf8",
+							"LevelName": "challenges/epic_shadowleaf8",
 							"Priority": "Primary"
 						}
 					},
@@ -3607,7 +3607,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_9",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_9]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_9]",
-							"LevelName": "challenges\/epic_shadowleaf9",
+							"LevelName": "challenges/epic_shadowleaf9",
 							"Priority": "Primary"
 						}
 					},
@@ -3618,7 +3618,7 @@
 							"UniqueID": "EPIC_QUEST_SHADOWLEAF_STEP_10",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_SDL_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_SDL_10]",
-							"LevelName": "challenges\/epic_shadowleaf10",
+							"LevelName": "challenges/epic_shadowleaf10",
 							"Priority": "Primary"
 						}
 					},
@@ -3662,7 +3662,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_1]",
-							"LevelName": "challenges\/epic_banana1",
+							"LevelName": "challenges/epic_banana1",
 							"Priority": "Primary"
 						}
 					},
@@ -3673,7 +3673,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_2]",
-							"LevelName": "challenges\/epic_banana2",
+							"LevelName": "challenges/epic_banana2",
 							"Priority": "Primary"
 						}
 					},
@@ -3684,7 +3684,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_3]",
-							"LevelName": "challenges\/epic_banana3",
+							"LevelName": "challenges/epic_banana3",
 							"Priority": "Primary"
 						}
 					},
@@ -3695,7 +3695,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_4]",
-							"LevelName": "challenges\/epic_banana4",
+							"LevelName": "challenges/epic_banana4",
 							"Priority": "Primary"
 						}
 					},
@@ -3706,7 +3706,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_5]",
-							"LevelName": "challenges\/epic_banana5",
+							"LevelName": "challenges/epic_banana5",
 							"Priority": "Primary"
 						}
 					},
@@ -3717,7 +3717,7 @@
 							"UniqueID": "EPIC_QUEST_BANANA_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BNN_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BNN_6]",
-							"LevelName": "challenges\/epic_banana6",
+							"LevelName": "challenges/epic_banana6",
 							"Priority": "Primary"
 						}
 					},
@@ -3766,7 +3766,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_1]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_1]",
-							"LevelName": "minigames\/bowling_1",
+							"LevelName": "minigames/bowling_1",
 							"Priority": "Primary"
 						}
 					},
@@ -3777,7 +3777,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_2]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_2]",
-							"LevelName": "minigames\/bowling_2",
+							"LevelName": "minigames/bowling_2",
 							"Priority": "Primary"
 						}
 					},
@@ -3788,7 +3788,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_3]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_3]",
-							"LevelName": "minigames\/bowling_3",
+							"LevelName": "minigames/bowling_3",
 							"Priority": "Primary"
 						}
 					},
@@ -3799,7 +3799,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_4]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_4]",
-							"LevelName": "minigames\/bowling_4",
+							"LevelName": "minigames/bowling_4",
 							"Priority": "Primary"
 						}
 					},
@@ -3810,7 +3810,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_5]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_5]",
-							"LevelName": "minigames\/bowling_5",
+							"LevelName": "minigames/bowling_5",
 							"Priority": "Primary"
 						}
 					},
@@ -3821,7 +3821,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_6]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_6]",
-							"LevelName": "minigames\/bowling_6",
+							"LevelName": "minigames/bowling_6",
 							"Priority": "Primary"
 						}
 					},
@@ -3832,7 +3832,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_7]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_7]",
-							"LevelName": "minigames\/bowling_7",
+							"LevelName": "minigames/bowling_7",
 							"Priority": "Primary"
 						}
 					},
@@ -3843,7 +3843,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_8]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_8]",
-							"LevelName": "minigames\/bowling_8",
+							"LevelName": "minigames/bowling_8",
 							"Priority": "Primary"
 						}
 					},
@@ -3854,7 +3854,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_9",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_9]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_9]",
-							"LevelName": "minigames\/bowling_9",
+							"LevelName": "minigames/bowling_9",
 							"Priority": "Primary"
 						}
 					},
@@ -3865,7 +3865,7 @@
 							"UniqueID": "EPIC_QUEST_BOWLING_STEP_10",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_10]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_BOWLING_PARTY_10]",
-							"LevelName": "minigames\/bowling_10",
+							"LevelName": "minigames/bowling_10",
 							"Priority": "Primary"
 						}
 					},
@@ -3912,7 +3912,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_1",
+							"LevelName": "minigames/plantpuzzle_1",
 							"Priority": "Primary"
 						}
 					},
@@ -3923,7 +3923,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_2",
+							"LevelName": "minigames/plantpuzzle_2",
 							"Priority": "Primary"
 						}
 					},
@@ -3934,7 +3934,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_3",
+							"LevelName": "minigames/plantpuzzle_3",
 							"Priority": "Primary"
 						}
 					},
@@ -3945,7 +3945,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_4",
+							"LevelName": "minigames/plantpuzzle_4",
 							"Priority": "Primary"
 						}
 					},
@@ -3956,7 +3956,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_5",
+							"LevelName": "minigames/plantpuzzle_5",
 							"Priority": "Primary"
 						}
 					},
@@ -3967,7 +3967,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_6",
+							"LevelName": "minigames/plantpuzzle_6",
 							"Priority": "Primary"
 						}
 					},
@@ -3978,7 +3978,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_7",
+							"LevelName": "minigames/plantpuzzle_7",
 							"Priority": "Primary"
 						}
 					},
@@ -3989,7 +3989,7 @@
 							"UniqueID": "EPIC_QUEST_PLANTPUZZLE_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
 							"Description": "[QUESTS_DESCRIPTION_EPIC_PLANT_PUZZLE]",
-							"LevelName": "minigames\/plantpuzzle_8",
+							"LevelName": "minigames/plantpuzzle_8",
 							"Priority": "Primary"
 						}
 					},
@@ -4033,7 +4033,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_1]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon1",
+							"LevelName": "challenges/epic_wintermelon1",
 							"Priority": "Primary"
 						}
 					},
@@ -4044,7 +4044,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_2]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon2",
+							"LevelName": "challenges/epic_wintermelon2",
 							"Priority": "Primary"
 						}
 					},
@@ -4055,7 +4055,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_3]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon3",
+							"LevelName": "challenges/epic_wintermelon3",
 							"Priority": "Primary"
 						}
 					},
@@ -4066,7 +4066,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_4]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon4",
+							"LevelName": "challenges/epic_wintermelon4",
 							"Priority": "Primary"
 						}
 					},
@@ -4077,7 +4077,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_5]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon5",
+							"LevelName": "challenges/epic_wintermelon5",
 							"Priority": "Primary"
 						}
 					},
@@ -4088,7 +4088,7 @@
 							"UniqueID": "EPIC_QUEST_WINTER_MELON_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_WML_6]",
 							"Description": "",
-							"LevelName": "challenges\/epic_wintermelon6",
+							"LevelName": "challenges/epic_wintermelon6",
 							"Priority": "Primary"
 						}
 					},
@@ -4136,7 +4136,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_1",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_1]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom1",
+							"LevelName": "challenges/epic_crystallshroom1",
 							"Priority": "Primary"
 						}
 					},
@@ -4147,7 +4147,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_2",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_2]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom2",
+							"LevelName": "challenges/epic_crystallshroom2",
 							"Priority": "Primary"
 						}
 					},
@@ -4158,7 +4158,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_3",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_3]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom3",
+							"LevelName": "challenges/epic_crystallshroom3",
 							"Priority": "Primary"
 						}
 					},
@@ -4169,7 +4169,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_4",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_4]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom4",
+							"LevelName": "challenges/epic_crystallshroom4",
 							"Priority": "Primary"
 						}
 					},
@@ -4180,7 +4180,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_5",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_5]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom5",
+							"LevelName": "challenges/epic_crystallshroom5",
 							"Priority": "Primary"
 						}
 					},
@@ -4191,7 +4191,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_6",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_6]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom6",
+							"LevelName": "challenges/epic_crystallshroom6",
 							"Priority": "Primary"
 						}
 					},
@@ -4202,7 +4202,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_7",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_7]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom7",
+							"LevelName": "challenges/epic_crystallshroom7",
 							"Priority": "Primary"
 						}
 					},
@@ -4213,7 +4213,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_8",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_8]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom8",
+							"LevelName": "challenges/epic_crystallshroom8",
 							"Priority": "Primary"
 						}
 					},
@@ -4224,7 +4224,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_9",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_9]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom9",
+							"LevelName": "challenges/epic_crystallshroom9",
 							"Priority": "Primary"
 						}
 					},
@@ -4235,7 +4235,7 @@
 							"UniqueID": "EPIC_QUEST_CRYSTALLSHROOM_STEP_10",
 							"QuestName": "[QUESTS_DESCRIPTION_EPIC_CRS_10]",
 							"Description": "",
-							"LevelName": "challenges\/epic_crystallshroom10",
+							"LevelName": "challenges/epic_crystallshroom10",
 							"Priority": "Primary"
 						}
 					},
@@ -4275,7 +4275,7 @@
 							"UniqueID": "MINIGAME_MEATSHIELD_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/meatshield_easy",
+							"LevelName": "minigames/meatshield_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4286,7 +4286,7 @@
 							"UniqueID": "MINIGAME_MEATSHIELD_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/meatshield",
+							"LevelName": "minigames/meatshield",
 							"Priority": "Primary"
 						}
 					},
@@ -4326,7 +4326,7 @@
 							"UniqueID": "MINIGAME_GASSY_HORROR_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/gassy_horror_easy",
+							"LevelName": "minigames/gassy_horror_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4337,7 +4337,7 @@
 							"UniqueID": "MINIGAME_GASSY_HORROR_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/gassy_horror",
+							"LevelName": "minigames/gassy_horror",
 							"Priority": "Primary"
 						}
 					},
@@ -4377,7 +4377,7 @@
 							"UniqueID": "MINIGAME_GARLIQUOR_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/garliquor_easy",
+							"LevelName": "minigames/garliquor_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4388,7 +4388,7 @@
 							"UniqueID": "MINIGAME_GARLIQUOR_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/garliquor",
+							"LevelName": "minigames/garliquor",
 							"Priority": "Primary"
 						}
 					},
@@ -4428,7 +4428,7 @@
 							"UniqueID": "MINIGAME_PARROTROUSLE_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/parrotrousle_easy",
+							"LevelName": "minigames/parrotrousle_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4439,7 +4439,7 @@
 							"UniqueID": "MINIGAME_PARROTROUSLE_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/parrotrousle",
+							"LevelName": "minigames/parrotrousle",
 							"Priority": "Primary"
 						}
 					},
@@ -4479,7 +4479,7 @@
 							"UniqueID": "MINIGAME_CRYOSIEGE_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/cryosiege_easy",
+							"LevelName": "minigames/cryosiege_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4490,7 +4490,7 @@
 							"UniqueID": "MINIGAME_CRYOSIEGE_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/cryosiege",
+							"LevelName": "minigames/cryosiege",
 							"Priority": "Primary"
 						}
 					},
@@ -4530,7 +4530,7 @@
 							"UniqueID": "MINIGAME_SOLARBANK_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/solarbank_easy",
+							"LevelName": "minigames/solarbank_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4541,7 +4541,7 @@
 							"UniqueID": "MINIGAME_SOLARBANK_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/solarbank",
+							"LevelName": "minigames/solarbank",
 							"Priority": "Primary"
 						}
 					},
@@ -4581,7 +4581,7 @@
 							"UniqueID": "MINIGAME_SLEEPWALKERS_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/sleepwalkers_easy",
+							"LevelName": "minigames/sleepwalkers_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4592,7 +4592,7 @@
 							"UniqueID": "MINIGAME_SLEEPWALKERS_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/sleepwalkers",
+							"LevelName": "minigames/sleepwalkers",
 							"Priority": "Primary"
 						}
 					},
@@ -4632,7 +4632,7 @@
 							"UniqueID": "MINIGAME_OBJECT_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/object_easy",
+							"LevelName": "minigames/object_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4643,7 +4643,7 @@
 							"UniqueID": "MINIGAME_OBJECT_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/object",
+							"LevelName": "minigames/object",
 							"Priority": "Primary"
 						}
 					},
@@ -4683,7 +4683,7 @@
 							"UniqueID": "MINIGAME_MEGA_COUNTDOWN_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/mega_countdown_easy",
+							"LevelName": "minigames/mega_countdown_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4694,7 +4694,7 @@
 							"UniqueID": "MINIGAME_MEGA_COUNTDOWN_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/mega_countdown",
+							"LevelName": "minigames/mega_countdown",
 							"Priority": "Primary"
 						}
 					},
@@ -4734,7 +4734,7 @@
 							"UniqueID": "MINIGAME_SOLAR_QUEST_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/solar_quest_easy",
+							"LevelName": "minigames/solar_quest_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4745,7 +4745,7 @@
 							"UniqueID": "MINIGAME_SOLAR_QUEST_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/solar_quest",
+							"LevelName": "minigames/solar_quest",
 							"Priority": "Primary"
 						}
 					},
@@ -4785,7 +4785,7 @@
 							"UniqueID": "MINIGAME_GOOD_FARMER_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/good_farmer_easy",
+							"LevelName": "minigames/good_farmer_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4796,7 +4796,7 @@
 							"UniqueID": "MINIGAME_GOOD_FARMER_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/good_farmer",
+							"LevelName": "minigames/good_farmer",
 							"Priority": "Primary"
 						}
 					},
@@ -4836,7 +4836,7 @@
 							"UniqueID": "MINIGAME_LILY_RECLAMATION_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/lily_reclamation_easy",
+							"LevelName": "minigames/lily_reclamation_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4847,7 +4847,7 @@
 							"UniqueID": "MINIGAME_LILY_RECLAMATION_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/lily_reclamation",
+							"LevelName": "minigames/lily_reclamation",
 							"Priority": "Primary"
 						}
 					},
@@ -4887,7 +4887,7 @@
 							"UniqueID": "MINIGAME_SHIPPER_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/shipper_easy",
+							"LevelName": "minigames/shipper_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4898,7 +4898,7 @@
 							"UniqueID": "MINIGAME_SHIPPER_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/shipper",
+							"LevelName": "minigames/shipper",
 							"Priority": "Primary"
 						}
 					},
@@ -4938,7 +4938,7 @@
 							"UniqueID": "MINIGAME_TIME_CRACK_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/time_crack_easy",
+							"LevelName": "minigames/time_crack_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -4949,7 +4949,7 @@
 							"UniqueID": "MINIGAME_TIME_CRACK_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/time_crack",
+							"LevelName": "minigames/time_crack",
 							"Priority": "Primary"
 						}
 					},
@@ -4989,7 +4989,7 @@
 							"UniqueID": "MINIGAME_MISS_PLACES_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/miss_places_easy",
+							"LevelName": "minigames/miss_places_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5000,7 +5000,7 @@
 							"UniqueID": "MINIGAME_MISS_PLACES_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/miss_places",
+							"LevelName": "minigames/miss_places",
 							"Priority": "Primary"
 						}
 					},
@@ -5040,7 +5040,7 @@
 							"UniqueID": "MINIGAME_NUTSHELL_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/nutshell_easy",
+							"LevelName": "minigames/nutshell_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5051,7 +5051,7 @@
 							"UniqueID": "MINIGAME_NUTSHELL_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/nutshell",
+							"LevelName": "minigames/nutshell",
 							"Priority": "Primary"
 						}
 					},
@@ -5091,7 +5091,7 @@
 							"UniqueID": "MINIGAME_LILYLAND_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/lilyland_easy",
+							"LevelName": "minigames/lilyland_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5102,7 +5102,7 @@
 							"UniqueID": "MINIGAME_LILYLAND_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/lilyland",
+							"LevelName": "minigames/lilyland",
 							"Priority": "Primary"
 						}
 					},
@@ -5142,7 +5142,7 @@
 							"UniqueID": "MINIGAME_PINK_PARAMOUNT_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/pink_paramount_easy",
+							"LevelName": "minigames/pink_paramount_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5153,7 +5153,7 @@
 							"UniqueID": "MINIGAME_PINK_PARAMOUNT_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/pink_paramount",
+							"LevelName": "minigames/pink_paramount",
 							"Priority": "Primary"
 						}
 					},
@@ -5193,7 +5193,7 @@
 							"UniqueID": "MINIGAME_GOLDCAPTURE_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/goldcapture_easy",
+							"LevelName": "minigames/goldcapture_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5204,7 +5204,7 @@
 							"UniqueID": "MINIGAME_GOLDCAPTURE_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/goldcapture",
+							"LevelName": "minigames/goldcapture",
 							"Priority": "Primary"
 						}
 					},
@@ -5244,7 +5244,7 @@
 							"UniqueID": "MINIGAME_WALLBREAKER_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/wallbreaker_easy",
+							"LevelName": "minigames/wallbreaker_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5255,7 +5255,7 @@
 							"UniqueID": "MINIGAME_WALLBREAKER_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/wallbreaker",
+							"LevelName": "minigames/wallbreaker",
 							"Priority": "Primary"
 						}
 					},
@@ -5295,7 +5295,7 @@
 							"UniqueID": "MINIGAME_PLOT_FLIP_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/plot_flip_easy",
+							"LevelName": "minigames/plot_flip_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5306,7 +5306,7 @@
 							"UniqueID": "MINIGAME_PLOT_FLIP_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/plot_flip",
+							"LevelName": "minigames/plot_flip",
 							"Priority": "Primary"
 						}
 					},
@@ -5346,7 +5346,7 @@
 							"UniqueID": "MINIGAME_SPLIT_DECISION_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/split_decision_easy",
+							"LevelName": "minigames/split_decision_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5357,7 +5357,7 @@
 							"UniqueID": "MINIGAME_SPLIT_DECISION_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/split_decision",
+							"LevelName": "minigames/split_decision",
 							"Priority": "Primary"
 						}
 					},
@@ -5397,7 +5397,7 @@
 							"UniqueID": "MINIGAME_ENCROUCHER_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_EASY]",
 							"Description": "",
-							"LevelName": "minigames\/encroucher_easy",
+							"LevelName": "minigames/encroucher_easy",
 							"Priority": "Primary"
 						}
 					},
@@ -5408,7 +5408,7 @@
 							"UniqueID": "MINIGAME_ENCROUCHER_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK_NORMAL]",
 							"Description": "",
-							"LevelName": "minigames\/encroucher",
+							"LevelName": "minigames/encroucher",
 							"Priority": "Primary"
 						}
 					},
@@ -5450,7 +5450,7 @@
 							"UniqueID": "MINIGAME_BOTANICAL_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/botanical_1",
+							"LevelName": "minigames/botanical_1",
 							"Priority": "Primary"
 						}
 					},
@@ -5461,7 +5461,7 @@
 							"UniqueID": "MINIGAME_BOTANICAL_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/botanical_2",
+							"LevelName": "minigames/botanical_2",
 							"Priority": "Primary"
 						}
 					},
@@ -5472,7 +5472,7 @@
 							"UniqueID": "MINIGAME_BOTANICAL_STEP_3",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/botanical_3",
+							"LevelName": "minigames/botanical_3",
 							"Priority": "Primary"
 						}
 					},
@@ -5483,7 +5483,7 @@
 							"UniqueID": "MINIGAME_BOTANICAL_STEP_4",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/botanical_4",
+							"LevelName": "minigames/botanical_4",
 							"Priority": "Primary"
 						}
 					},
@@ -5526,7 +5526,7 @@
 							"UniqueID": "MINIGAME_OVERLEFT_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/overleft_1",
+							"LevelName": "minigames/overleft_1",
 							"Priority": "Primary"
 						}
 					},
@@ -5537,7 +5537,7 @@
 							"UniqueID": "MINIGAME_OVERLEFT_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/overleft_2",
+							"LevelName": "minigames/overleft_2",
 							"Priority": "Primary"
 						}
 					},
@@ -5548,7 +5548,7 @@
 							"UniqueID": "MINIGAME_OVERLEFT_STEP_3",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/overleft_3",
+							"LevelName": "minigames/overleft_3",
 							"Priority": "Primary"
 						}
 					},
@@ -5559,7 +5559,7 @@
 							"UniqueID": "MINIGAME_OVERLEFT_STEP_4",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/overleft_4",
+							"LevelName": "minigames/overleft_4",
 							"Priority": "Primary"
 						}
 					},
@@ -5570,7 +5570,7 @@
 							"UniqueID": "MINIGAME_OVERLEFT_STEP_5",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/overleft_5",
+							"LevelName": "minigames/overleft_5",
 							"Priority": "Primary"
 						}
 					},
@@ -5612,7 +5612,7 @@
 							"UniqueID": "MINIGAME_ORIGIN_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/origin_1",
+							"LevelName": "minigames/origin_1",
 							"Priority": "Primary"
 						}
 					},
@@ -5623,7 +5623,7 @@
 							"UniqueID": "MINIGAME_ORIGIN_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/origin_2",
+							"LevelName": "minigames/origin_2",
 							"Priority": "Primary"
 						}
 					},
@@ -5634,7 +5634,7 @@
 							"UniqueID": "MINIGAME_ORIGIN_STEP_3",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/origin_3",
+							"LevelName": "minigames/origin_3",
 							"Priority": "Primary"
 						}
 					},
@@ -5645,7 +5645,7 @@
 							"UniqueID": "MINIGAME_ORIGIN_STEP_4",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/origin_4",
+							"LevelName": "minigames/origin_4",
 							"Priority": "Primary"
 						}
 					},
@@ -5689,7 +5689,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_1",
+							"LevelName": "minigames/deadend_1",
 							"Priority": "Primary"
 						}
 					},
@@ -5700,7 +5700,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_2",
+							"LevelName": "minigames/deadend_2",
 							"Priority": "Primary"
 						}
 					},
@@ -5711,7 +5711,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_3",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_3",
+							"LevelName": "minigames/deadend_3",
 							"Priority": "Primary"
 						}
 					},
@@ -5722,7 +5722,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_4",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_4",
+							"LevelName": "minigames/deadend_4",
 							"Priority": "Primary"
 						}
 					},
@@ -5733,7 +5733,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_5",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_5",
+							"LevelName": "minigames/deadend_5",
 							"Priority": "Primary"
 						}
 					},
@@ -5744,7 +5744,7 @@
 							"UniqueID": "MINIGAME_DEADEND_STEP_6",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/deadend_6",
+							"LevelName": "minigames/deadend_6",
 							"Priority": "Primary"
 						}
 					},
@@ -5788,7 +5788,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_1",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_1",
+							"LevelName": "minigames/invisighoul_1",
 							"Priority": "Primary"
 						}
 					},
@@ -5799,7 +5799,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_2",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_2",
+							"LevelName": "minigames/invisighoul_2",
 							"Priority": "Primary"
 						}
 					},
@@ -5810,7 +5810,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_3",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_3",
+							"LevelName": "minigames/invisighoul_3",
 							"Priority": "Primary"
 						}
 					},
@@ -5821,7 +5821,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_4",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_4",
+							"LevelName": "minigames/invisighoul_4",
 							"Priority": "Primary"
 						}
 					},
@@ -5832,7 +5832,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_5",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_5",
+							"LevelName": "minigames/invisighoul_5",
 							"Priority": "Primary"
 						}
 					},
@@ -5843,7 +5843,7 @@
 							"UniqueID": "MINIGAME_INVISIGHOUL_STEP_6",
 							"QuestName": "[QUESTS_MINIGAME_UNLOCK]",
 							"Description": "",
-							"LevelName": "minigames\/invisighoul_6",
+							"LevelName": "minigames/invisighoul_6",
 							"Priority": "Primary"
 						}
 					},
@@ -5854,7 +5854,7 @@
 							"UniqueID": "MINIGAME_MINESET_ENDER",
 							"QuestName": "[QUESTS_MINIGAME_LEVELS_MINESETTER_ENDER]",
 							"Description": "[QUESTS_MINIGAME_UNLOCK]",
-							"LevelName": "minigames\/mineset_ender1",
+							"LevelName": "minigames/mineset_ender1",
 							"CompletionAwards": {
 								"Awards": [
 									{
@@ -5914,7 +5914,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_1",
 							"QuestName": "[BATCH_1_1]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_precipitation",
+							"LevelName": "community/ender_precipitation",
 							"Priority": "Primary"
 						}
 					},
@@ -5925,7 +5925,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_2",
 							"QuestName": "[BATCH_1_2]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_speeddance",
+							"LevelName": "community/imagi_speeddance",
 							"Priority": "Primary"
 						}
 					},
@@ -5936,7 +5936,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_3",
 							"QuestName": "[BATCH_1_3]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_unthawediceage",
+							"LevelName": "community/malex_unthawediceage",
 							"Priority": "Primary"
 						}
 					},
@@ -5947,7 +5947,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_4",
 							"QuestName": "[BATCH_1_4]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_strawburstplayground",
+							"LevelName": "community/ree_strawburstplayground",
 							"Priority": "Primary"
 						}
 					},
@@ -5958,7 +5958,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_5",
 							"QuestName": "[BATCH_1_5]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_basicburster",
+							"LevelName": "community/yericky_basicburster",
 							"Priority": "Primary"
 						}
 					},
@@ -5969,7 +5969,7 @@
 							"UniqueID": "COMMUNITY_BATCH_1_STEP_6",
 							"QuestName": "[BATCH_1_6]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_dinosaster",
+							"LevelName": "community/sergio_dinosaster",
 							"Priority": "Primary"
 						}
 					},
@@ -6015,7 +6015,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_1",
 							"QuestName": "[BATCH_2_1]Creeps",
 							"Description": "",
-							"LevelName": "community\/creeps_dancingqueens",
+							"LevelName": "community/creeps_dancingqueens",
 							"Priority": "Primary"
 						}
 					},
@@ -6026,7 +6026,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_2",
 							"QuestName": "[BATCH_2_2]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_intotheforest",
+							"LevelName": "community/beepboop_intotheforest",
 							"Priority": "Primary"
 						}
 					},
@@ -6037,7 +6037,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_3",
 							"QuestName": "[BATCH_2_3]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_notallthatglitters",
+							"LevelName": "community/beepboop_notallthatglitters",
 							"Priority": "Primary"
 						}
 					},
@@ -6048,7 +6048,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_4",
 							"QuestName": "[BATCH_2_4]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_zombiemagnet",
+							"LevelName": "community/beepboop_zombiemagnet",
 							"Priority": "Primary"
 						}
 					},
@@ -6059,7 +6059,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_5",
 							"QuestName": "[BATCH_2_5]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_feelingblue",
+							"LevelName": "community/malex_feelingblue",
 							"Priority": "Primary"
 						}
 					},
@@ -6070,7 +6070,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_6",
 							"QuestName": "[BATCH_2_6]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_therealmarsh",
+							"LevelName": "community/malex_therealmarsh",
 							"Priority": "Primary"
 						}
 					},
@@ -6081,7 +6081,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_7",
 							"QuestName": "[BATCH_2_7]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_lostnight",
+							"LevelName": "community/yericky_lostnight",
 							"Priority": "Primary"
 						}
 					},
@@ -6092,7 +6092,7 @@
 							"UniqueID": "COMMUNITY_BATCH_2_STEP_8",
 							"QuestName": "[BATCH_2_8]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_wildbattle",
+							"LevelName": "community/yericky_wildbattle",
 							"Priority": "Primary"
 						}
 					},
@@ -6136,7 +6136,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_1",
 							"QuestName": "[BATCH_3_1]A.K.E.E",
 							"Description": "",
-							"LevelName": "community\/akee_theoldkingdom",
+							"LevelName": "community/akee_theoldkingdom",
 							"Priority": "Primary"
 						}
 					},
@@ -6147,7 +6147,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_2",
 							"QuestName": "[BATCH_3_2]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_oldtimeyrailways",
+							"LevelName": "community/beetsa_oldtimeyrailways",
 							"Priority": "Primary"
 						}
 					},
@@ -6158,7 +6158,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_3",
 							"QuestName": "[BATCH_3_3]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_protechedcamsite",
+							"LevelName": "community/beetsa_protechedcamsite",
 							"Priority": "Primary"
 						}
 					},
@@ -6169,7 +6169,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_4",
 							"QuestName": "[BATCH_3_4]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_jugglernaut",
+							"LevelName": "community/dhq_jugglernaut",
 							"Priority": "Primary"
 						}
 					},
@@ -6180,7 +6180,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_5",
 							"QuestName": "[BATCH_3_5]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_lovestory",
+							"LevelName": "community/dhq_lovestory",
 							"Priority": "Primary"
 						}
 					},
@@ -6191,7 +6191,7 @@
 							"UniqueID": "COMMUNITY_BATCH_3_STEP_6",
 							"QuestName": "[BATCH_3_6]A.K.E.E",
 							"Description": "",
-							"LevelName": "community\/akee_themagickingdom",
+							"LevelName": "community/akee_themagickingdom",
 							"Priority": "Primary"
 						}
 					},
@@ -6235,7 +6235,7 @@
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_1",
 							"QuestName": "[BATCH_4_1]MemeMan",
 							"Description": "",
-							"LevelName": "community\/mememan_boxingarena",
+							"LevelName": "community/mememan_boxingarena",
 							"Priority": "Primary"
 						}
 					},
@@ -6246,7 +6246,7 @@
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_2",
 							"QuestName": "[BATCH_4_2]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_arcticocean",
+							"LevelName": "community/sergio_arcticocean",
 							"Priority": "Primary"
 						}
 					},
@@ -6257,7 +6257,7 @@
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_3",
 							"QuestName": "[BATCH_4_3]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_mixedstorm",
+							"LevelName": "community/sergio_mixedstorm",
 							"Priority": "Primary"
 						}
 					},
@@ -6266,9 +6266,9 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_4",
-							"QuestName": "[BATCH_4_4]stuff\/embarking",
+							"QuestName": "[BATCH_4_4]stuff/embarking",
 							"Description": "",
-							"LevelName": "community\/stuff_avianland",
+							"LevelName": "community/stuff_avianland",
 							"Priority": "Primary"
 						}
 					},
@@ -6279,7 +6279,7 @@
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_5",
 							"QuestName": "[BATCH_4_5]Spike Man",
 							"Description": "",
-							"LevelName": "community\/spikeman_frogfeast",
+							"LevelName": "community/spikeman_frogfeast",
 							"Priority": "Primary"
 						}
 					},
@@ -6290,7 +6290,7 @@
 							"UniqueID": "COMMUNITY_BATCH_4_STEP_6",
 							"QuestName": "[BATCH_4_6]DT",
 							"Description": "",
-							"LevelName": "community\/dt_herdimmunity",
+							"LevelName": "community/dt_herdimmunity",
 							"Priority": "Primary"
 						}
 					},
@@ -6334,7 +6334,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_1",
 							"QuestName": "[BATCH_5_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_runngun",
+							"LevelName": "community/dt_runngun",
 							"Priority": "Primary"
 						}
 					},
@@ -6345,7 +6345,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_2",
 							"QuestName": "[BATCH_5_2]DT",
 							"Description": "",
-							"LevelName": "community\/dt_sonicwaves",
+							"LevelName": "community/dt_sonicwaves",
 							"Priority": "Primary"
 						}
 					},
@@ -6356,7 +6356,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_3",
 							"QuestName": "[BATCH_5_3]DT",
 							"Description": "",
-							"LevelName": "community\/dt_bugshield",
+							"LevelName": "community/dt_bugshield",
 							"Priority": "Primary"
 						}
 					},
@@ -6367,7 +6367,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_4",
 							"QuestName": "[BATCH_5_4]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_ancientmausoleum",
+							"LevelName": "community/ender_ancientmausoleum",
 							"Priority": "Primary"
 						}
 					},
@@ -6378,7 +6378,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_5",
 							"QuestName": "[BATCH_5_5]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_goldenbalance",
+							"LevelName": "community/ender_goldenbalance",
 							"Priority": "Primary"
 						}
 					},
@@ -6389,7 +6389,7 @@
 							"UniqueID": "COMMUNITY_BATCH_5_STEP_6",
 							"QuestName": "[BATCH_5_6]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_thepainter",
+							"LevelName": "community/locko_thepainter",
 							"Priority": "Primary"
 						}
 					},
@@ -6435,7 +6435,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_1",
 							"QuestName": "[BATCH_6_1]Poss",
 							"Description": "",
-							"LevelName": "community\/poss_cannonshipbattlefield",
+							"LevelName": "community/poss_cannonshipbattlefield",
 							"Priority": "Primary"
 						}
 					},
@@ -6446,7 +6446,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_2",
 							"QuestName": "[BATCH_6_2]Poss",
 							"Description": "",
-							"LevelName": "community\/poss_splitgrid",
+							"LevelName": "community/poss_splitgrid",
 							"Priority": "Primary"
 						}
 					},
@@ -6457,7 +6457,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_3",
 							"QuestName": "[BATCH_6_3]Spike Man",
 							"Description": "",
-							"LevelName": "community\/spikeman_goldrush",
+							"LevelName": "community/spikeman_goldrush",
 							"Priority": "Primary"
 						}
 					},
@@ -6468,7 +6468,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_4",
 							"QuestName": "[BATCH_6_4]Trin",
 							"Description": "",
-							"LevelName": "community\/trin_healingskill",
+							"LevelName": "community/trin_healingskill",
 							"Priority": "Primary"
 						}
 					},
@@ -6479,7 +6479,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_5",
 							"QuestName": "[BATCH_6_5]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_ghosttown",
+							"LevelName": "community/yericky_ghosttown",
 							"Priority": "Primary"
 						}
 					},
@@ -6490,7 +6490,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_6",
 							"QuestName": "[BATCH_6_6]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_hauntedcastle",
+							"LevelName": "community/yericky_hauntedcastle",
 							"Priority": "Primary"
 						}
 					},
@@ -6501,7 +6501,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_7",
 							"QuestName": "[BATCH_6_7]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_sunstrike",
+							"LevelName": "community/malex_sunstrike",
 							"Priority": "Primary"
 						}
 					},
@@ -6512,7 +6512,7 @@
 							"UniqueID": "COMMUNITY_BATCH_6_STEP_8",
 							"QuestName": "[BATCH_6_8]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_bugthugs",
+							"LevelName": "community/malex_bugthugs",
 							"Priority": "Primary"
 						}
 					},
@@ -6556,7 +6556,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_1",
 							"QuestName": "[BATCH_7_1]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_piecebypiece",
+							"LevelName": "community/locko_piecebypiece",
 							"Priority": "Primary"
 						}
 					},
@@ -6567,7 +6567,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_2",
 							"QuestName": "[BATCH_7_2]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_flashbang",
+							"LevelName": "community/locko_flashbang",
 							"Priority": "Primary"
 						}
 					},
@@ -6578,7 +6578,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_3",
 							"QuestName": "[BATCH_7_3]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_swingingnight",
+							"LevelName": "community/locko_swingingnight",
 							"Priority": "Primary"
 						}
 					},
@@ -6589,7 +6589,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_4",
 							"QuestName": "[BATCH_7_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_dinotamer",
+							"LevelName": "community/locko_dinotamer",
 							"Priority": "Primary"
 						}
 					},
@@ -6600,7 +6600,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_5",
 							"QuestName": "[BATCH_7_5]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_bowlinsspecialday",
+							"LevelName": "community/locko_bowlinsspecialday",
 							"Priority": "Primary"
 						}
 					},
@@ -6611,7 +6611,7 @@
 							"UniqueID": "COMMUNITY_BATCH_7_STEP_6",
 							"QuestName": "[BATCH_7_6]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_elitesquad",
+							"LevelName": "community/locko_elitesquad",
 							"Priority": "Primary"
 						}
 					},
@@ -6655,7 +6655,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_1",
 							"QuestName": "[BATCH_8_1]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_zombiesmelter",
+							"LevelName": "community/beetsa_zombiesmelter",
 							"Priority": "Primary"
 						}
 					},
@@ -6666,7 +6666,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_2",
 							"QuestName": "[BATCH_8_2]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_serpiaapama",
+							"LevelName": "community/caelum_serpiaapama",
 							"Priority": "Primary"
 						}
 					},
@@ -6677,7 +6677,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_3",
 							"QuestName": "[BATCH_8_3]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_eyeofthestorm",
+							"LevelName": "community/caelum_eyeofthestorm",
 							"Priority": "Primary"
 						}
 					},
@@ -6688,7 +6688,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_4",
 							"QuestName": "[BATCH_8_4]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_runesconservation",
+							"LevelName": "community/dhq_runesconservation",
 							"Priority": "Primary"
 						}
 					},
@@ -6699,7 +6699,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_5",
 							"QuestName": "[BATCH_8_5]Creeps",
 							"Description": "",
-							"LevelName": "community\/creeps_rediscoveringrhythm",
+							"LevelName": "community/creeps_rediscoveringrhythm",
 							"Priority": "Primary"
 						}
 					},
@@ -6710,7 +6710,7 @@
 							"UniqueID": "COMMUNITY_BATCH_8_STEP_6",
 							"QuestName": "[BATCH_8_6]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_nullandvoid",
+							"LevelName": "community/ender_nullandvoid",
 							"Priority": "Primary"
 						}
 					},
@@ -6758,7 +6758,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_1",
 							"QuestName": "[BATCH_9_1]A.K.E.E",
 							"Description": "",
-							"LevelName": "community\/akee_fishychips",
+							"LevelName": "community/akee_fishychips",
 							"Priority": "Primary"
 						}
 					},
@@ -6769,7 +6769,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_2",
 							"QuestName": "[BATCH_9_2]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_loadedandlocked",
+							"LevelName": "community/beepboop_loadedandlocked",
 							"Priority": "Primary"
 						}
 					},
@@ -6780,7 +6780,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_3",
 							"QuestName": "[BATCH_9_3]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_goldenrain",
+							"LevelName": "community/beepboop_goldenrain",
 							"Priority": "Primary"
 						}
 					},
@@ -6791,7 +6791,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_4",
 							"QuestName": "[BATCH_9_4]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_sunlock",
+							"LevelName": "community/beepboop_sunlock",
 							"Priority": "Primary"
 						}
 					},
@@ -6802,7 +6802,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_5",
 							"QuestName": "[BATCH_9_5]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_defrostation",
+							"LevelName": "community/caelum_defrostation",
 							"Priority": "Primary"
 						}
 					},
@@ -6813,7 +6813,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_6",
 							"QuestName": "[BATCH_9_6n]Poss",
 							"Description": "",
-							"LevelName": "community\/poss_hookedin",
+							"LevelName": "community/poss_hookedin",
 							"Priority": "Primary"
 						}
 					},
@@ -6824,7 +6824,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_7",
 							"QuestName": "[BATCH_9_7]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_brokenline",
+							"LevelName": "community/ree_brokenline",
 							"Priority": "Primary"
 						}
 					},
@@ -6835,7 +6835,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_8",
 							"QuestName": "[BATCH_9_8]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_goldenshovel",
+							"LevelName": "community/ree_goldenshovel",
 							"Priority": "Primary"
 						}
 					},
@@ -6846,7 +6846,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_9",
 							"QuestName": "V.I.PVin",
 							"Description": "",
-							"LevelName": "community\/vin_vip",
+							"LevelName": "community/vin_vip",
 							"Priority": "Primary"
 						}
 					},
@@ -6857,7 +6857,7 @@
 							"UniqueID": "COMMUNITY_BATCH_9_STEP_10",
 							"QuestName": "[BATCH_9_10]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_skirmishinthesea",
+							"LevelName": "community/yericky_skirmishinthesea",
 							"Priority": "Primary"
 						}
 					},
@@ -6901,7 +6901,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_1",
 							"QuestName": "[BATCH_10_1]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_infestedjungle",
+							"LevelName": "community/locko_infestedjungle",
 							"Priority": "Primary"
 						}
 					},
@@ -6912,7 +6912,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_2",
 							"QuestName": "[BATCH_10_2]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_lostintime",
+							"LevelName": "community/caelum_lostintime",
 							"Priority": "Primary"
 						}
 					},
@@ -6923,7 +6923,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_3",
 							"QuestName": "[BATCH_10_3]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_returntosender",
+							"LevelName": "community/caelum_returntosender",
 							"Priority": "Primary"
 						}
 					},
@@ -6934,7 +6934,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_4",
 							"QuestName": "[BATCH_10_4]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_honeytrap",
+							"LevelName": "community/caelum_honeytrap",
 							"Priority": "Primary"
 						}
 					},
@@ -6945,7 +6945,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_5",
 							"QuestName": "[BATCH_10_5]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_stalkshift",
+							"LevelName": "community/ender_stalkshift",
 							"Priority": "Primary"
 						}
 					},
@@ -6956,7 +6956,7 @@
 							"UniqueID": "COMMUNITY_BATCH_10_STEP_6",
 							"QuestName": "[BATCH_10_6]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_allloutattack",
+							"LevelName": "community/ender_allloutattack",
 							"Priority": "Primary"
 						}
 					},
@@ -6999,7 +6999,7 @@
 							"UniqueID": "COMMUNITY_BATCH_11_STEP_1",
 							"QuestName": "[BATCH_11_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_enlightening",
+							"LevelName": "community/dt_enlightening",
 							"Priority": "Primary"
 						}
 					},
@@ -7010,7 +7010,7 @@
 							"UniqueID": "COMMUNITY_BATCH_11_STEP_2",
 							"QuestName": "[BATCH_11_2]DT",
 							"Description": "",
-							"LevelName": "community\/dt_safeharbour",
+							"LevelName": "community/dt_safeharbour",
 							"Priority": "Primary"
 						}
 					},
@@ -7021,7 +7021,7 @@
 							"UniqueID": "COMMUNITY_BATCH_11_STEP_3",
 							"QuestName": "[BATCH_11_3]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_tothewater",
+							"LevelName": "community/locko_tothewater",
 							"Priority": "Primary"
 						}
 					},
@@ -7032,7 +7032,7 @@
 							"UniqueID": "COMMUNITY_BATCH_11_STEP_4",
 							"QuestName": "[BATCH_11_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_royaltroubles",
+							"LevelName": "community/locko_royaltroubles",
 							"Priority": "Primary"
 						}
 					},
@@ -7043,7 +7043,7 @@
 							"UniqueID": "COMMUNITY_BATCH_11_STEP_5",
 							"QuestName": "[BATCH_11_5]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_hindertimber",
+							"LevelName": "community/ender_hindertimber",
 							"Priority": "Primary"
 						}
 					},
@@ -7086,7 +7086,7 @@
 							"UniqueID": "COMMUNITY_BATCH_12_STEP_1",
 							"QuestName": "[BATCH_12_1]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_tombcurses",
+							"LevelName": "community/dhq_tombcurses",
 							"Priority": "Primary"
 						}
 					},
@@ -7097,7 +7097,7 @@
 							"UniqueID": "COMMUNITY_BATCH_12_STEP_2",
 							"QuestName": "The Weather Pack: Snow Day]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_twp_snowday",
+							"LevelName": "community/dhq_twp_snowday",
 							"Priority": "Primary"
 						}
 					},
@@ -7108,7 +7108,7 @@
 							"UniqueID": "COMMUNITY_BATCH_12_STEP_3",
 							"QuestName": "The Weather Pack: Burning Day]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_twp_burningday",
+							"LevelName": "community/dhq_twp_burningday",
 							"Priority": "Primary"
 						}
 					},
@@ -7119,7 +7119,7 @@
 							"UniqueID": "COMMUNITY_BATCH_12_STEP_4",
 							"QuestName": "The Weather Pack: Rainforest]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_twp_rainforest",
+							"LevelName": "community/dhq_twp_rainforest",
 							"Priority": "Primary"
 						}
 					},
@@ -7130,7 +7130,7 @@
 							"UniqueID": "COMMUNITY_BATCH_12_STEP_5",
 							"QuestName": "The Weather Pack: Sea Fog]DHQ",
 							"Description": "",
-							"LevelName": "community\/dhq_twp_seafog",
+							"LevelName": "community/dhq_twp_seafog",
 							"Priority": "Primary"
 						}
 					},
@@ -7176,7 +7176,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_1",
 							"QuestName": "[BATCH_13_1]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_strikethrough",
+							"LevelName": "community/imagi_strikethrough",
 							"Priority": "Primary"
 						}
 					},
@@ -7187,7 +7187,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_2",
 							"QuestName": "[BATCH_13_2]KF4",
 							"Description": "",
-							"LevelName": "community\/kf4_danceclan",
+							"LevelName": "community/kf4_danceclan",
 							"Priority": "Primary"
 						}
 					},
@@ -7198,7 +7198,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_3",
 							"QuestName": "[BATCH_13_3]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_frozonelayer",
+							"LevelName": "community/ender_frozonelayer",
 							"Priority": "Primary"
 						}
 					},
@@ -7209,7 +7209,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_4",
 							"QuestName": "[BATCH_13_4]Creeps",
 							"Description": "",
-							"LevelName": "community\/creeps_trulymetal",
+							"LevelName": "community/creeps_trulymetal",
 							"Priority": "Primary"
 						}
 					},
@@ -7220,7 +7220,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_5",
 							"QuestName": "[BATCH_13_5]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_catwalk",
+							"LevelName": "community/beepboop_catwalk",
 							"Priority": "Primary"
 						}
 					},
@@ -7231,7 +7231,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_6",
 							"QuestName": "[BATCH_13_6]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_prehistorictemple",
+							"LevelName": "community/beepboop_prehistorictemple",
 							"Priority": "Primary"
 						}
 					},
@@ -7242,7 +7242,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_7",
 							"QuestName": "[BATCH_13_7]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_headsniper",
+							"LevelName": "community/beetsa_headsniper",
 							"Priority": "Primary"
 						}
 					},
@@ -7253,7 +7253,7 @@
 							"UniqueID": "COMMUNITY_BATCH_13_STEP_8",
 							"QuestName": "[BATCH_13_8]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_speedyproblem",
+							"LevelName": "community/beetsa_speedyproblem",
 							"Priority": "Primary"
 						}
 					},
@@ -7297,7 +7297,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_1",
 							"QuestName": "[BATCH_14_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_wilddancer",
+							"LevelName": "community/dt_wilddancer",
 							"Priority": "Primary"
 						}
 					},
@@ -7308,7 +7308,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_2",
 							"QuestName": "[BATCH_14_2]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_explosivetrap",
+							"LevelName": "community/locko_explosivetrap",
 							"Priority": "Primary"
 						}
 					},
@@ -7319,7 +7319,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_3",
 							"QuestName": "[BATCH_14_3]DT",
 							"Description": "",
-							"LevelName": "community\/dt_raidleader",
+							"LevelName": "community/dt_raidleader",
 							"Priority": "Primary"
 						}
 					},
@@ -7330,7 +7330,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_4",
 							"QuestName": "[BATCH_14_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_emergencybutton",
+							"LevelName": "community/locko_emergencybutton",
 							"Priority": "Primary"
 						}
 					},
@@ -7341,7 +7341,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_5",
 							"QuestName": "[BATCH_14_5]DT",
 							"Description": "",
-							"LevelName": "community\/dt_minesafety",
+							"LevelName": "community/dt_minesafety",
 							"Priority": "Primary"
 						}
 					},
@@ -7352,7 +7352,7 @@
 							"UniqueID": "COMMUNITY_BATCH_14_STEP_6",
 							"QuestName": "[BATCH_14_6]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_artillerymaintenance",
+							"LevelName": "community/locko_artillerymaintenance",
 							"Priority": "Primary"
 						}
 					},
@@ -7396,7 +7396,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_1",
 							"QuestName": "[BATCH_15_1]Vin",
 							"Description": "",
-							"LevelName": "community\/vin_nethersgate",
+							"LevelName": "community/vin_nethersgate",
 							"Priority": "Primary"
 						}
 					},
@@ -7407,7 +7407,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_2",
 							"QuestName": "[BATCH_15_2]username",
 							"Description": "",
-							"LevelName": "community\/username_rainbowroad",
+							"LevelName": "community/username_rainbowroad",
 							"Priority": "Primary"
 						}
 					},
@@ -7418,7 +7418,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_3",
 							"QuestName": "[BATCH_15_3]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_alternativeflowerline",
+							"LevelName": "community/sergio_alternativeflowerline",
 							"Priority": "Primary"
 						}
 					},
@@ -7429,7 +7429,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_4",
 							"QuestName": "[BATCH_15_4]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_harderbetter",
+							"LevelName": "community/sergio_harderbetter",
 							"Priority": "Primary"
 						}
 					},
@@ -7440,7 +7440,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_5",
 							"QuestName": "[BATCH_15_5]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_museumgraveyard",
+							"LevelName": "community/sergio_museumgraveyard",
 							"Priority": "Primary"
 						}
 					},
@@ -7451,7 +7451,7 @@
 							"UniqueID": "COMMUNITY_BATCH_15_STEP_6",
 							"QuestName": "[BATCH_15_6]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_finalcountdown",
+							"LevelName": "community/sergio_finalcountdown",
 							"Priority": "Primary"
 						}
 					},
@@ -7499,7 +7499,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_1",
 							"QuestName": "[BATCH_16_1]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_highzapvoltages",
+							"LevelName": "community/beetsa_highzapvoltages",
 							"Priority": "Primary"
 						}
 					},
@@ -7510,7 +7510,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_2",
 							"QuestName": "[BATCH_16_2]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_sunreserves",
+							"LevelName": "community/beepboop_sunreserves",
 							"Priority": "Primary"
 						}
 					},
@@ -7521,7 +7521,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_3",
 							"QuestName": "[BATCH_16_3]bread",
 							"Description": "",
-							"LevelName": "community\/bread_backfromextinction",
+							"LevelName": "community/bread_backfromextinction",
 							"Priority": "Primary"
 						}
 					},
@@ -7532,7 +7532,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_4",
 							"QuestName": "[BATCH_16_4]DT",
 							"Description": "",
-							"LevelName": "community\/dt_sheepforce",
+							"LevelName": "community/dt_sheepforce",
 							"Priority": "Primary"
 						}
 					},
@@ -7543,7 +7543,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_5",
 							"QuestName": "[BATCH_16_5]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_rainbowroad",
+							"LevelName": "community/ender_rainbowroad",
 							"Priority": "Primary"
 						}
 					},
@@ -7554,7 +7554,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_6",
 							"QuestName": "[BATCH_16_6]Jungletyrant",
 							"Description": "",
-							"LevelName": "community\/jungletyrant_buggyjungles",
+							"LevelName": "community/jungletyrant_buggyjungles",
 							"Priority": "Primary"
 						}
 					},
@@ -7565,7 +7565,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_7",
 							"QuestName": "[BATCH_16_7]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_concealedsnowstorm",
+							"LevelName": "community/malex_concealedsnowstorm",
 							"Priority": "Primary"
 						}
 					},
@@ -7576,7 +7576,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_8",
 							"QuestName": "[BATCH_16_8]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_synthserfs",
+							"LevelName": "community/malex_synthserfs",
 							"Priority": "Primary"
 						}
 					},
@@ -7587,7 +7587,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_9",
 							"QuestName": "[BATCH_16_9]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_caverave",
+							"LevelName": "community/malex_caverave",
 							"Priority": "Primary"
 						}
 					},
@@ -7598,7 +7598,7 @@
 							"UniqueID": "COMMUNITY_BATCH_16_STEP_10",
 							"QuestName": "[BATCH_16_10]MemeMan",
 							"Description": "",
-							"LevelName": "community\/mememan_speedsurf",
+							"LevelName": "community/mememan_speedsurf",
 							"Priority": "Primary"
 						}
 					},
@@ -7642,7 +7642,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_1",
 							"QuestName": "[BATCH_17_1]TheShero",
 							"Description": "",
-							"LevelName": "community\/theshero_blastingrace",
+							"LevelName": "community/theshero_blastingrace",
 							"Priority": "Primary"
 						}
 					},
@@ -7653,7 +7653,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_2",
 							"QuestName": "[BATCH_17_2]Vin",
 							"Description": "",
-							"LevelName": "community\/vin_nothernlight",
+							"LevelName": "community/vin_nothernlight",
 							"Priority": "Primary"
 						}
 					},
@@ -7664,7 +7664,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_3",
 							"QuestName": "[BATCH_17_3]JungleTyrant",
 							"Description": "",
-							"LevelName": "community\/jungletyrant_daredevilsspeed",
+							"LevelName": "community/jungletyrant_daredevilsspeed",
 							"Priority": "Primary"
 						}
 					},
@@ -7675,7 +7675,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_4",
 							"QuestName": "[BATCH_17_4]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_metaforce",
+							"LevelName": "community/ender_metaforce",
 							"Priority": "Primary"
 						}
 					},
@@ -7686,7 +7686,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_5",
 							"QuestName": "[BATCH_17_5]DT",
 							"Description": "",
-							"LevelName": "community\/dt_watery_graves",
+							"LevelName": "community/dt_watery_graves",
 							"Priority": "Primary"
 						}
 					},
@@ -7697,7 +7697,7 @@
 							"UniqueID": "COMMUNITY_BATCH_17_STEP_6",
 							"QuestName": "[BATCH_17_6]DT",
 							"Description": "",
-							"LevelName": "community\/dt_techshow",
+							"LevelName": "community/dt_techshow",
 							"Priority": "Primary"
 						}
 					},
@@ -7741,7 +7741,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_1",
 							"QuestName": "[BATCH_18_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_moldtrap",
+							"LevelName": "community/dt_moldtrap",
 							"Priority": "Primary"
 						}
 					},
@@ -7752,7 +7752,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_2",
 							"QuestName": "[BATCH_18_2]DT",
 							"Description": "",
-							"LevelName": "community\/dt_hardcore",
+							"LevelName": "community/dt_hardcore",
 							"Priority": "Primary"
 						}
 					},
@@ -7763,7 +7763,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_3",
 							"QuestName": "[BATCH_18_3]DT",
 							"Description": "",
-							"LevelName": "community\/dt_multiply",
+							"LevelName": "community/dt_multiply",
 							"Priority": "Primary"
 						}
 					},
@@ -7774,7 +7774,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_4",
 							"QuestName": "[BATCH_18_4]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_dischargefield",
+							"LevelName": "community/ender_dischargefield",
 							"Priority": "Primary"
 						}
 					},
@@ -7785,7 +7785,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_5",
 							"QuestName": "[BATCH_18_5]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_ridingshotgun",
+							"LevelName": "community/ender_ridingshotgun",
 							"Priority": "Primary"
 						}
 					},
@@ -7796,7 +7796,7 @@
 							"UniqueID": "COMMUNITY_BATCH_18_STEP_6",
 							"QuestName": "[BATCH_18_6]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_debugtrap",
+							"LevelName": "community/ender_debugtrap",
 							"Priority": "Primary"
 						}
 					},
@@ -7842,7 +7842,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_1",
 							"QuestName": "[BATCH_19_1]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_squareisland",
+							"LevelName": "community/imagi_squareisland",
 							"Priority": "Primary"
 						}
 					},
@@ -7853,7 +7853,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_2",
 							"QuestName": "[BATCH_19_2]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_buriedbeach",
+							"LevelName": "community/locko_buriedbeach",
 							"Priority": "Primary"
 						}
 					},
@@ -7864,7 +7864,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_3",
 							"QuestName": "[BATCH_19_3]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_twinthreat",
+							"LevelName": "community/imagi_twinthreat",
 							"Priority": "Primary"
 						}
 					},
@@ -7875,7 +7875,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_4",
 							"QuestName": "[BATCH_19_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_unholycruzade",
+							"LevelName": "community/locko_unholycruzade",
 							"Priority": "Primary"
 						}
 					},
@@ -7886,7 +7886,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_5",
 							"QuestName": "[BATCH_19_5]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_seedsoftime",
+							"LevelName": "community/imagi_seedsoftime",
 							"Priority": "Primary"
 						}
 					},
@@ -7897,7 +7897,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_6",
 							"QuestName": "[BATCH_19_6]Imagination",
 							"Description": "",
-							"LevelName": "community\/imagi_electricalmanagement",
+							"LevelName": "community/imagi_electricalmanagement",
 							"Priority": "Primary"
 						}
 					},
@@ -7908,7 +7908,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_7",
 							"QuestName": "[BATCH_19_7]MemeMan",
 							"Description": "",
-							"LevelName": "community\/mememan_nuclearpower",
+							"LevelName": "community/mememan_nuclearpower",
 							"Priority": "Primary"
 						}
 					},
@@ -7919,7 +7919,7 @@
 							"UniqueID": "COMMUNITY_BATCH_19_STEP_8",
 							"QuestName": "[BATCH_19_8]Nutshade",
 							"Description": "",
-							"LevelName": "community\/nutshade_psychapath",
+							"LevelName": "community/nutshade_psychapath",
 							"Priority": "Primary"
 						}
 					},
@@ -7963,7 +7963,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_1",
 							"QuestName": "[BATCH_20_1]beetsa",
 							"Description": "",
-							"LevelName": "community\/beetsa_firepower",
+							"LevelName": "community/beetsa_firepower",
 							"Priority": "Primary"
 						}
 					},
@@ -7974,7 +7974,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_2",
 							"QuestName": "[BATCH_20_2]DT",
 							"Description": "",
-							"LevelName": "community\/dt_farflungfuture",
+							"LevelName": "community/dt_farflungfuture",
 							"Priority": "Primary"
 						}
 					},
@@ -7985,7 +7985,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_3",
 							"QuestName": "[BATCH_20_3]DT",
 							"Description": "",
-							"LevelName": "community\/dt_macenaries",
+							"LevelName": "community/dt_macenaries",
 							"Priority": "Primary"
 						}
 					},
@@ -7996,7 +7996,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_4",
 							"QuestName": "[BATCH_20_4]DHQ & Ender",
 							"Description": "",
-							"LevelName": "community\/ender_dhq_heatwave",
+							"LevelName": "community/ender_dhq_heatwave",
 							"Priority": "Primary"
 						}
 					},
@@ -8007,7 +8007,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_5",
 							"QuestName": "[BATCH_20_5]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_extremeseasidesports",
+							"LevelName": "community/malex_extremeseasidesports",
 							"Priority": "Primary"
 						}
 					},
@@ -8018,7 +8018,7 @@
 							"UniqueID": "COMMUNITY_BATCH_20_STEP_6",
 							"QuestName": "[BATCH_20_6]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_stayback",
+							"LevelName": "community/sergio_stayback",
 							"Priority": "Primary"
 						}
 					},
@@ -8062,7 +8062,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_1",
 							"QuestName": "[BATCH_21_1]Vin",
 							"Description": "",
-							"LevelName": "community\/vin_[BATCH_21_1",
+							"LevelName": "community/vin_[BATCH_21_1",
 							"Priority": "Primary"
 						}
 					},
@@ -8073,7 +8073,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_2",
 							"QuestName": "[BATCH_21_2]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_powersource",
+							"LevelName": "community/ree_powersource",
 							"Priority": "Primary"
 						}
 					},
@@ -8084,7 +8084,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_3",
 							"QuestName": "[BATCH_21_3]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_friendlyfire",
+							"LevelName": "community/ree_friendlyfire",
 							"Priority": "Primary"
 						}
 					},
@@ -8095,7 +8095,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_4",
 							"QuestName": "IaOReeee",
 							"Description": "",
-							"LevelName": "community\/ree_iao",
+							"LevelName": "community/ree_iao",
 							"Priority": "Primary"
 						}
 					},
@@ -8106,7 +8106,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_5",
 							"QuestName": "[BATCH_21_5]Poss",
 							"Description": "",
-							"LevelName": "community\/poss_aimtowin",
+							"LevelName": "community/poss_aimtowin",
 							"Priority": "Primary"
 						}
 					},
@@ -8117,7 +8117,7 @@
 							"UniqueID": "COMMUNITY_BATCH_21_STEP_6",
 							"QuestName": "[BATCH_21_6]Reeee",
 							"Description": "",
-							"LevelName": "community\/ree_friendlynether",
+							"LevelName": "community/ree_friendlynether",
 							"Priority": "Primary"
 						}
 					},
@@ -8163,7 +8163,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_1",
 							"QuestName": "[BATCH_22_1]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_movingmovers",
+							"LevelName": "community/malex_movingmovers",
 							"Priority": "Primary"
 						}
 					},
@@ -8174,7 +8174,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_2",
 							"QuestName": "[BATCH_22_2]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_poweroflove",
+							"LevelName": "community/malex_poweroflove",
 							"Priority": "Primary"
 						}
 					},
@@ -8185,7 +8185,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_3",
 							"QuestName": "[BATCH_22_3]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_flipperflop",
+							"LevelName": "community/malex_flipperflop",
 							"Priority": "Primary"
 						}
 					},
@@ -8196,7 +8196,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_4",
 							"QuestName": "[BATCH_22_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_roottenweb",
+							"LevelName": "community/locko_roottenweb",
 							"Priority": "Primary"
 						}
 					},
@@ -8207,7 +8207,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_5",
 							"QuestName": "[BATCH_22_5]bread",
 							"Description": "",
-							"LevelName": "community\/bread_flyingtroubles",
+							"LevelName": "community/bread_flyingtroubles",
 							"Priority": "Primary"
 						}
 					},
@@ -8218,7 +8218,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_6",
 							"QuestName": "[BATCH_22_6]BeepBoop",
 							"Description": "",
-							"LevelName": "community\/beepboop_tentaclelane",
+							"LevelName": "community/beepboop_tentaclelane",
 							"Priority": "Primary"
 						}
 					},
@@ -8229,7 +8229,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_7",
 							"QuestName": "[BATCH_22_7]Caelum",
 							"Description": "",
-							"LevelName": "community\/caelum_mobilebattery",
+							"LevelName": "community/caelum_mobilebattery",
 							"Priority": "Primary"
 						}
 					},
@@ -8240,7 +8240,7 @@
 							"UniqueID": "COMMUNITY_BATCH_22_STEP_8",
 							"QuestName": "[BATCH_22_8]DT",
 							"Description": "",
-							"LevelName": "community\/dt_blastfishing",
+							"LevelName": "community/dt_blastfishing",
 							"Priority": "Primary"
 						}
 					},
@@ -8284,7 +8284,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_1",
 							"QuestName": "[BATCH_23_1]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_flamewalkers",
+							"LevelName": "community/ender_flamewalkers",
 							"Priority": "Primary"
 						}
 					},
@@ -8295,7 +8295,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_2",
 							"QuestName": "[BATCH_23_2]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_americanfootball",
+							"LevelName": "community/sergio_americanfootball",
 							"Priority": "Primary"
 						}
 					},
@@ -8306,7 +8306,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_3",
 							"QuestName": "[BATCH_23_3]TheShero",
 							"Description": "",
-							"LevelName": "community\/theshero_chess",
+							"LevelName": "community/theshero_chess",
 							"Priority": "Primary"
 						}
 					},
@@ -8317,7 +8317,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_4",
 							"QuestName": "[BATCH_23_4]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_lawsofelectricity",
+							"LevelName": "community/sergio_lawsofelectricity",
 							"Priority": "Primary"
 						}
 					},
@@ -8328,7 +8328,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_5",
 							"QuestName": "[BATCH_23_5]Sergio+",
 							"Description": "",
-							"LevelName": "community\/sergio_peanutbutterjelly",
+							"LevelName": "community/sergio_peanutbutterjelly",
 							"Priority": "Primary"
 						}
 					},
@@ -8339,7 +8339,7 @@
 							"UniqueID": "COMMUNITY_BATCH_23_STEP_6",
 							"QuestName": "[BATCH_23_6]DT",
 							"Description": "",
-							"LevelName": "community\/dt_iceburn",
+							"LevelName": "community/dt_iceburn",
 							"Priority": "Primary"
 						}
 					},
@@ -8383,7 +8383,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_1",
 							"QuestName": "[BATCH_24_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_summoning",
+							"LevelName": "community/dt_summoning",
 							"Priority": "Primary"
 						}
 					},
@@ -8394,7 +8394,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_2",
 							"QuestName": "[BATCH_24_2]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_fatazomgana",
+							"LevelName": "community/ender_fatazomgana",
 							"Priority": "Primary"
 						}
 					},
@@ -8405,7 +8405,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_3",
 							"QuestName": "[BATCH_24_3]DT",
 							"Description": "",
-							"LevelName": "community\/dt_hauntedhighway",
+							"LevelName": "community/dt_hauntedhighway",
 							"Priority": "Primary"
 						}
 					},
@@ -8416,7 +8416,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_4",
 							"QuestName": "[BATCH_24_4]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_plaques",
+							"LevelName": "community/ender_plaques",
 							"Priority": "Primary"
 						}
 					},
@@ -8427,7 +8427,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_5",
 							"QuestName": "[BATCH_24_5]DT",
 							"Description": "",
-							"LevelName": "community\/dt_herdprotection",
+							"LevelName": "community/dt_herdprotection",
 							"Priority": "Primary"
 						}
 					},
@@ -8438,7 +8438,7 @@
 							"UniqueID": "COMMUNITY_BATCH_24_STEP_6",
 							"QuestName": "[BATCH_24_6]EnderallyGolem",
 							"Description": "",
-							"LevelName": "community\/ender_fissureblister",
+							"LevelName": "community/ender_fissureblister",
 							"Priority": "Primary"
 						}
 					},
@@ -8482,7 +8482,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_1",
 							"QuestName": "[BATCH_25_1]Giang",
 							"Description": "",
-							"LevelName": "community\/giang_landowner",
+							"LevelName": "community/giang_landowner",
 							"Priority": "Primary"
 						}
 					},
@@ -8493,7 +8493,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_2",
 							"QuestName": "[BATCH_25_2]Malex2005",
 							"Description": "",
-							"LevelName": "community\/malex_airboarder",
+							"LevelName": "community/malex_airboarder",
 							"Priority": "Primary"
 						}
 					},
@@ -8504,7 +8504,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_3",
 							"QuestName": "[BATCH_25_3]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_riseofdarkness",
+							"LevelName": "community/yericky_riseofdarkness",
 							"Priority": "Primary"
 						}
 					},
@@ -8515,7 +8515,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_4",
 							"QuestName": "[BATCH_25_4]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_sunsnipers",
+							"LevelName": "community/yericky_sunsnipers",
 							"Priority": "Primary"
 						}
 					},
@@ -8526,7 +8526,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_5",
 							"QuestName": "[BATCH_25_5]Yericky",
 							"Description": "",
-							"LevelName": "community\/yericky_supermelonbros",
+							"LevelName": "community/yericky_supermelonbros",
 							"Priority": "Primary"
 						}
 					},
@@ -8537,7 +8537,7 @@
 							"UniqueID": "COMMUNITY_BATCH_25_STEP_6",
 							"QuestName": "[BATCH_25_6]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_poweredrails",
+							"LevelName": "community/locko_poweredrails",
 							"Priority": "Primary"
 						}
 					},
@@ -8581,7 +8581,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_1",
 							"QuestName": "[BATCH_26_1]DT",
 							"Description": "",
-							"LevelName": "community\/dt_objective_escort",
+							"LevelName": "community/dt_objective_escort",
 							"Priority": "Primary"
 						}
 					},
@@ -8592,7 +8592,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_2",
 							"QuestName": "[BATCH_26_2]DT",
 							"Description": "",
-							"LevelName": "community\/dt_powergrid",
+							"LevelName": "community/dt_powergrid",
 							"Priority": "Primary"
 						}
 					},
@@ -8603,7 +8603,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_3",
 							"QuestName": "[BATCH_26_3]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_thefreezer",
+							"LevelName": "community/locko_thefreezer",
 							"Priority": "Primary"
 						}
 					},
@@ -8614,7 +8614,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_4",
 							"QuestName": "[BATCH_26_4]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_spicyice",
+							"LevelName": "community/locko_spicyice",
 							"Priority": "Primary"
 						}
 					},
@@ -8625,7 +8625,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_5",
 							"QuestName": "[BATCH_26_5]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_zombietamer",
+							"LevelName": "community/locko_zombietamer",
 							"Priority": "Primary"
 						}
 					},
@@ -8636,7 +8636,7 @@
 							"UniqueID": "COMMUNITY_BATCH_26_STEP_6",
 							"QuestName": "[BATCH_26_6]Lock O",
 							"Description": "",
-							"LevelName": "community\/locko_tidalwaves",
+							"LevelName": "community/locko_tidalwaves",
 							"Priority": "Primary"
 						}
 					}
