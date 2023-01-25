@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"objects": [ {
+			"aliases": [ "NewsData" ],
+			"objclass": "SettingsNewsData",
+			"objdata": {
+				"NewsDataEntries": [ {
+						"Date": 1674752400,
+						"LocalizedData": {
+							"en": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中",
+								"DownloadableBanner": ""
+							},
+							"es": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中"
+							},
+							"de": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中"
+							},
+							"fr": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中"
+							},
+							"it": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中"
+							},
+							"pt": {
+								"Text": "本改版作者: GP2团队(已得到汉化许可)\n本改版汉化组成员:(按昵称首字母排列)\nbilibili@apples1949 UID:186773722\nbilibili@a20040920a_ego UID:511275630\nbilibili@Cracked_Wing UID:151409739\nbilibili@Dream_Wint UID:650263556\nbilibili@金影_树 UID:662988031\nbilibili@Minami-Tsubame UID:1666020660\nQQ@sun_superflower (我们暂时没有联系上他)\nbilibili@_vorisu_ UID:399252673\nbilibili@一只蝎蛉 UID607657546\n\n特别感谢以下诸位对汉化的支持:\nbilibili@猫耳朵Cattary UID:84240028\nbilibili@lava ` UID:1538908134(原昵称有其他符号无法读取, 所以改用英文符号)\n\n特别感谢lite汉化组对中文字体和翻译的使用授权!\n\n测试反馈名单:\n正在测试中"
+							}
+						}
+					}]
+			}
+		} ]
+}
