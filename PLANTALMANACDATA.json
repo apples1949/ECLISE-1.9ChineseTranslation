@@ -4132,7 +4132,7 @@
 						"StatType": "range",
 						"StatValue": "straight",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile"
+						"ValueStringID": "[STAT_RANGE_1TILES]"
 					}
 				],
 				"TypeName": "nightshade"
@@ -4964,7 +4964,7 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile"
+						"ValueStringID": "[STAT_RANGE_1TILES]"
 					}
 				],
 				"TypeName": "chomper"
@@ -6625,7 +6625,7 @@
 						"StatType": "range",
 						"StatValue": "close",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "1 Tile"
+						"ValueStringID": "[STAT_RANGE_1TILES]"
 					}
 				],
 				"TypeName": "parsnip"
