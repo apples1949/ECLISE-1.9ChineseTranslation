@@ -421,7 +421,7 @@
 							"QuestCategory": "Eighties",
 							"UniqueID": "FINISH_EIGHTIES_PT1",
 							"QuestName": "[QUESTS_MAINLINE_FINISH_NMT_PT1]",
-							"Description": "[QUESTS_DESCRIPTION_MAINLINE_FINISH_FF_PT1]",
+							"Description": "[QUESTS_DESCRIPTION_MAINLINE_FINISH_NMT_PT1]",
 							"LevelName": "eighties10",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_EIGHTIES",
 							"CompletionAwards": {
