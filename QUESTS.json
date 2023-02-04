@@ -748,7 +748,7 @@
 							"QuestCategory": "Dino",
 							"UniqueID": "FINISH_DINO_PT2",
 							"QuestName": "[QUESTS_MAINLINE_FINISH_JM_PT2]",
-							"Description": "[QUESTS_DESCRIPTION_MAINLINE_FINISH_AE_PT2]",
+							"Description": "[QUESTS_DESCRIPTION_MAINLINE_FINISH_JM_PT2]",
 							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_DINO",
 							"LevelName": "dino20",
 							"CompletionAwards": {
