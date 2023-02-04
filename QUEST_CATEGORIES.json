@@ -1,76 +1,127 @@
 {
 	"#comment": "Set up quest categories here!",
 	"version": 1,
-	"objects": [ {
-			"aliases": [ "QuestTabCategories" ],
+	"objects": [
+		{
+			"aliases": [
+				"QuestTabCategories"
+			],
 			"objclass": "QuestTabCategories",
 			"objdata": {
 				"Name": "QuestTabCategories",
-				"TabCategories": [ "SpineQuests", "Minigames", "CommunityLevels", "EpicQuests", "ChallengeQuests", "CompletedQuests" ],
+				"TabCategories": [
+					"SpineQuests",
+					"Minigames",
+					"CommunityLevels",
+					"EpicQuests",
+					"ChallengeQuests",
+					"CompletedQuests"
+				],
 				"CompletedQuestTabIdx": 5
 			}
-		}, {
-			"aliases": [ "Minigames" ],
+		},
+		{
+			"aliases": [
+				"Minigames"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "Minigames",
 				"QuestTabCategory": "Minigames",
-				"QuestCategories": [ "Currency" ],
+				"QuestCategories": [
+					"Currency"
+				],
 				"TabLabel": "[QUEST_TAB_LABEL_MINIGAMES]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_PINATASTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_PINATASTAB_DOWN"
 			}
-		}, {
-			"aliases": [ "CommunityLevels" ],
+		},
+		{
+			"aliases": [
+				"CommunityLevels"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "CommunityLevels",
 				"QuestTabCategory": "CommunityLevels",
-				"QuestCategories": [ "Generic" ],
+				"QuestCategories": [
+					"Generic"
+				],
 				"TabLabel": "[QUEST_TAB_LABEL_COMMUNITY]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_PLANTSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_PLANTSTAB_DOWN"
 			}
-		}, {
-			"aliases": [ "ChallengeQuests" ],
+		},
+		{
+			"aliases": [
+				"ChallengeQuests"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "ChallengeQuests",
 				"QuestTabCategory": "ChallengeQuests",
-				"QuestCategories": [ "DailyActivities" ],
+				"QuestCategories": [
+					"DailyActivities"
+				],
 				"TabLabel": "[QUEST_TAB_LABEL_CHALLENGE]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_FEATUREDTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_FEATUREDTAB_DOWN"
 			}
-		}, {
-			"aliases": [ "EpicQuests" ],
+		},
+		{
+			"aliases": [
+				"EpicQuests"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "EpicQuests",
 				"QuestTabCategory": "EpicQuests",
-				"QuestCategories": [ "Epic" ],
+				"QuestCategories": [
+					"Epic"
+				],
 				"TabLabel": "[QUEST_TAB_LABEL_EPIC]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_EVENTSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_EVENTSTAB_DOWN"
 			}
-		}, {
-			"aliases": [ "SpineQuests" ],
+		},
+		{
+			"aliases": [
+				"SpineQuests"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "SpineQuests",
 				"QuestTabCategory": "SpineQuests",
-				"QuestCategories": [ "Tutorial", "Egypt", "Pirate", "Cowboy", "UnlockWorld", "Future", "Dark", "Beach", "IceAge", "LostCity", "Eighties", "Dino", "Modern", "PremiumPlant" ],
+				"QuestCategories": [
+					"Tutorial",
+					"Egypt",
+					"Pirate",
+					"Cowboy",
+					"UnlockWorld",
+					"Future",
+					"Dark",
+					"Beach",
+					"IceAge",
+					"LostCity",
+					"Eighties",
+					"Dino",
+					"Modern",
+					"PremiumPlant"
+				],
 				"TabLabel": "[QUEST_TAB_LABEL_SPINE]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_COINSTAB_DOWN"
 			}
-		}, {
-			"aliases": [ "CompletedQuests" ],
+		},
+		{
+			"aliases": [
+				"CompletedQuests"
+			],
 			"objclass": "QuestTabCategoryData",
 			"objdata": {
 				"Name": "CompletedQuests",
@@ -80,5 +131,6 @@
 				"TabSelectedImage": "IMAGE_UI_STORE_GEMSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_GEMSTAB_ACTIVE"
 			}
-		} ]
+		}
+	]
 }
